@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "palettefix",
+  "version": "1.0.0",
+  "mixins": [
+    {
+      "config": "palettefix.mixins.json",
+      "environment": "*"
+    }
+  ]
+}
